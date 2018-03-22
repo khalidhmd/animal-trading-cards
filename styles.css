@@ -1,0 +1,45 @@
+/* add your CSS here */
+.maincard {
+  border: 1px solid;
+  border-style: solid;
+  box-shadow: 1px 10px 10px grey;
+  width: 320px;
+  border-radius: 3px;
+  background-color: cyan;
+}
+.img {
+
+  width: 300px;
+  margin: 0 10px 0 10px;
+}
+.animalname {
+  padding: 0 5px 0 5px;
+
+}
+.animalfact {
+  font-style: italic;
+  padding: 0 5px 0 5px;
+}
+.listlabel {
+  font-weight: bold;
+
+}
+.animaldescription {
+  padding: 0 5px 0 5px;
+}
+.listitem {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.animalinfo {
+  border: 1px grey;
+  border-style: dashed;
+  border-radius: 3px;
+  margin: 10px;
+  padding: 0 10px 0 10px;
+  background-color: #fafafa;
+}
+.menu {
+  padding-left: 5px;
+}
